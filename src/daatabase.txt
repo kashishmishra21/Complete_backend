@@ -1,0 +1,8 @@
+CRUD :
+C => CREATE
+R => READ 
+U => UPDATE
+D => DELETE
+
+IZj0z7zRrOTLLpMQ
+mongodb+srv://BACKEND_REVISION:IZj0z7zRrOTLLpMQ@cluster0.beufasv.mongodb.net/
